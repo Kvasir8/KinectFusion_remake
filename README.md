@@ -1,12 +1,15 @@
 # KinectFusion_remake
 Course Project from 3D Scanning and Motion Capture at TUM
 # Latex report
-https://sharelatex.tum.de/project/639468018f773b1b855819e5
+[https://sharelatex.tum.de/project/639468018f773b1b855819e5](https://drive.google.com/file/d/1aVfujOK9xV2C0_E1jritoWver82ducJa/view)
+# presentation file
+[https://drive.google.com/file/d/1coC4pdaIsz4nukc0047swDoNcP3pVauH/view](https://drive.google.com/file/d/1coC4pdaIsz4nukc0047swDoNcP3pVauH/view)
 
 # Project Structure
 
 └── ProjectKinectFusion\
-   ├── KinectFusionRemake\ The git cloned folder
+   ├── KinectFusionRemake\
+   The git cloned folder
    │   ├── main.cpp\
    │   └─── CMakeLists.txt  
    ├── Libs 
